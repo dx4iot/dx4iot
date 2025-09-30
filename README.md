@@ -18,9 +18,6 @@
 </a>
 </div>
 
-<br> 
-
-<div align="left">
  
 As a passionate Freelancer and Udemy Instructor, I've had the incredible opportunity to guide over 1 lakh+ students through the fascinating world of Python programming. My expertise extends beyond Python, encompassing languages like C, C++, JavaScript, HTML, and CSS.
 
@@ -32,49 +29,31 @@ Additionally, I dabble in trading during my free time, exploring the intricacies
 
 Let's connect! Whether you're a fellow enthusiast in programming, cybersecurity, photography, or trading, I'm always open to engaging with like-minded individuals. Feel free to reach out, and let's embark on this journey of knowledge and creativity together!
 
- </div>
 
-<div align="left">
-  <h2 align="left">⚙️ Tools that I use: ⚙️</h2>
 
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+## 🔧 Technologies & Tools
 
-  ![Visual Studio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-  ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Netlify](	https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-  ![GithubPages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
-  ![Discord](	https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)  
+![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&logoColor=white&color=grey)  
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=yellow)  
+![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=grey)  
+![](https://img.shields.io/badge/AI%2FML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=yellow)  
+![](https://img.shields.io/badge/AI%2FML-Scikit_Learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=grey)  
+![](https://img.shields.io/badge/AI%2FML-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=yellow)  
+![](https://img.shields.io/badge/AI%2FML-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=grey)   
+![](https://img.shields.io/badge/Cybersecurity-Metasploit-informational?style=flat&logo=metasploit&logoColor=white&color=yellow)  
+![](https://img.shields.io/badge/Cybersecurity-Burp_Suite-informational?style=flat&logo=burpsuite&logoColor=white&color=grey)  
+![](https://img.shields.io/badge/Cybersecurity-Nmap-informational?style=flat&logo=nmap&logoColor=white&color=yellow)  
+![](https://img.shields.io/badge/Cybersecurity-Wireshark-informational?style=flat&logo=wireshark&logoColor=white&color=grey)  
+![](https://img.shields.io/badge/Cybersecurity-Kali_Linux-informational?style=flat&logo=kalilinux&logoColor=white&color=yellow)  
+![](https://img.shields.io/badge/Bug_Bounty-HackerOne-informational?style=flat&logo=hackerone&logoColor=white&color=grey)  
+![](https://img.shields.io/badge/Bug_Bounty-Bugcrowd-informational?style=flat&logo=bugcrowd&logoColor=white&color=yellow)  
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=grey)  
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=yellow)  
+![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=grey)  
+![](https://img.shields.io/badge/Tools-Mailchimp-informational?style=flat&logo=mailchimp&logoColor=white&color=yellow)  
+![](https://img.shields.io/badge/Tools-HubSpot-informational?style=flat&logo=hubspot&logoColor=white&color=grey)  
 
-  <h3>Tech Stack:</h3>  
-
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)
-
-  <h3>Currently Learning:</h3>
-  
-  ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)
-  ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-  ![Tauri](	https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)
-  ![Next](	https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![TypeScript](	https://img.shields.io/badge/typescript-415bc6?style=for-the-badge&logo=typescript&logoColor=white)
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-</div>
-<br>
-
-<br/>
 
 <h2 align="left">📊 Github Stats 📊</h2>
 
