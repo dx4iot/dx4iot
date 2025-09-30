@@ -1,8 +1,9 @@
 [![cover](https://github.com/dx4iot/dx4iot/blob/main/fcover.png)](https://github.com/dx4iot?tab=repositories)
 
 
-<h3 align="left">Programmer | Bug Bounty | Cyber Security</h3>
+<h3 align="center">Programmer | Bug Bounty | Cyber Security</h3>
 
+<p align=center>
 <a href="mailto:dx4iot@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a> 
 <a href="https://www.linkedin.com/in/dx4iot/" target="_blank">
@@ -11,7 +12,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
 <a href="https://twitter.com/dx4iot" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /></a>
-
+</p>
  
 As a passionate Freelancer and Udemy Instructor, I've had the incredible opportunity to guide over 1 lakh+ students through the fascinating world of Python programming. My expertise extends beyond Python, encompassing languages like C, C++, JavaScript, HTML, and CSS.
 
