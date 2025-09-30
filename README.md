@@ -13,16 +13,17 @@
 <a href="https://twitter.com/dx4iot" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /></a>
 </p>
- 
-As a passionate Freelancer and Udemy Instructor, I've had the incredible opportunity to guide over 1 lakh+ students through the fascinating world of Python programming. My expertise extends beyond Python, encompassing languages like C, C++, JavaScript, HTML, and CSS.
 
-With a keen interest in cybersecurity, I actively engage in bug bounty programs and ethical hacking, ensuring that I stay at the forefront of digital security. My knowledge spans across areas such as networking, cryptography, and more, allowing me to provide comprehensive insights into the dynamic field of cybersecurity.
+<p align=center>As a passionate Freelancer and Udemy Instructor, I've had the incredible opportunity to guide over 1 lakh+ students through the fascinating world of Python programming. My expertise extends beyond Python, encompassing languages like C, C++, JavaScript, HTML, and CSS.</p>
 
-When not immersed in the world of code, I pursue another passion as a Stock Photographer. Capturing moments through my lens is not just a hobby but a creative outlet that adds a unique dimension to my professional journey.
+<p align=center>With a keen interest in cybersecurity, I actively engage in bug bounty programs and ethical hacking, ensuring that I stay at the forefront of digital security. My knowledge spans across areas such as networking, cryptography, and more, allowing me to provide comprehensive insights into the dynamic field of cybersecurity.</p>
 
-Additionally, I dabble in trading during my free time, exploring the intricacies of financial markets. This multifaceted approach to my career reflects my commitment to continuous learning and embracing diverse interests.
+<p align=center>When not immersed in the world of code, I pursue another passion as a Stock Photographer. Capturing moments through my lens is not just a hobby but a creative outlet that adds a unique dimension to my professional journey.</p>
 
-Let's connect! Whether you're a fellow enthusiast in programming, cybersecurity, photography, or trading, I'm always open to engaging with like-minded individuals. Feel free to reach out, and let's embark on this journey of knowledge and creativity together!
+<p align=center>Additionally, I dabble in trading during my free time, exploring the intricacies of financial markets. This multifaceted approach to my career reflects my commitment to continuous learning and embracing diverse interests.</p>
+
+<p align=center>Let's connect! Whether you're a fellow enthusiast in programming, cybersecurity, photography, or trading, I'm always open to engaging with like-minded individuals. Feel free to reach out, and let's embark on this journey of knowledge and creativity together!</p>
+
 
 
 
