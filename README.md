@@ -18,14 +18,7 @@
 
 <p align=center>With a keen interest in cybersecurity, I actively engage in bug bounty programs and ethical hacking, ensuring that I stay at the forefront of digital security. My knowledge spans across areas such as networking, cryptography, and more, allowing me to provide comprehensive insights into the dynamic field of cybersecurity.</p>
 
-<p align=center>When not immersed in the world of code, I pursue another passion as a Stock Photographer. Capturing moments through my lens is not just a hobby but a creative outlet that adds a unique dimension to my professional journey.</p>
-
 <p align=center>Additionally, I dabble in trading during my free time, exploring the intricacies of financial markets. This multifaceted approach to my career reflects my commitment to continuous learning and embracing diverse interests.</p>
-
-<p align=center>Let's connect! Whether you're a fellow enthusiast in programming, cybersecurity, photography, or trading, I'm always open to engaging with like-minded individuals. Feel free to reach out, and let's embark on this journey of knowledge and creativity together!</p>
-
-
-
 
 ## 🔧 Technologies & Tools
 
