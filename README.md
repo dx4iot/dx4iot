@@ -43,5 +43,5 @@
 
 <h2 align="left">📊 Github Stats 📊</h2>
 
-![Kevin Ribas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dx4iot&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dx4iot&show_icons=true&theme=radical)
+![Kevin Ribas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dx4iot&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dx4iot&show_icons=true)
