@@ -7,7 +7,7 @@
 </br>
 
 <!-- ═══════════════ QUICK STAT PILLS ═══════════════ -->
-<img src="https://img.shields.io/badge/PROFILE%20VIEWS-0d0d0d?style=flat&logo=eye&logoColor=white" height="28"/>&nbsp;
+<a href="https://github.com/dx4iot"><img src="https://komarev.com/ghpvc/?username=dx4iot&style=flat&color=0d0d0d&label=PROFILE+VIEWS" height="28"/></a>&nbsp;
 <a href="https://github.com/dx4iot?tab=followers"><img src="https://img.shields.io/github/followers/dx4iot?style=flat&logo=github&logoColor=white&label=FOLLOWERS&color=24292e" height="28"/></a>&nbsp;
 <img src="https://img.shields.io/badge/BUG%20BOUNTY-ACTIVE-00b300?style=flat&logoColor=white" height="28"/>&nbsp;
 <img src="https://img.shields.io/badge/INDIA-🇮🇳-ff6b35?style=flat&logoColor=white" height="28"/>
