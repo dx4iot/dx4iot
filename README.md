@@ -53,11 +53,12 @@
 
 <div align="center">
 
-<a href="mailto:dx4iot@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>&nbsp;
-<a href="https://linkedin.com/in/dx4iot"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/></a>&nbsp;
-<a href="https://twitter.com/dx4iot"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="32"/></a>&nbsp;
-<a href="https://instagram.com/dx4iot"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32"/></a>&nbsp;
-<a href="https://www.udemy.com/user/nishant-tiwari-61/"><img src="https://img.shields.io/badge/UDEMY-A435F0?style=for-the-badge&logo=udemy&logoColor=white" height="32"/></a>&nbsp;
+<a href="mailto:dx4iot@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=flat&logo=gmail&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://linkedin.com/in/dx4iot"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://instagram.com/dx4iot"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=instagram&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://twitter.com/dx4iot"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=flat&logo=twitter&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://www.udemy.com/user/nishant-tiwari-61/"><img src="https://img.shields.io/badge/UDEMY-A435F0?style=flat&logo=udemy&logoColor=white" height="28"/></a>&nbsp;
+
 </div>
 
 ---
