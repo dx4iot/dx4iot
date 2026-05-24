@@ -82,40 +82,13 @@
 
 <div align="center">
 
-**Cybersecurity**
+<img src="https://img.shields.io/badge/Bug%20Bounty-00ff41?style=for-the-badge&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Web%20Pentesting-00cc33?style=for-the-badge&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=FF6633&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Metasploit-7c3aed?style=for-the-badge&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=1679A7&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=557C94&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/OSINT-ff0040?style=for-the-badge&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Nmap-004088?style=for-the-badge&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/SQLi%20·%20XSS%20·%20CSRF-8b0000?style=for-the-badge&labelColor=ffffff" height="30"/>
 
-<img src="https://img.shields.io/badge/Bug%20Bounty-00ff41?style=flat-square&labelColor=0d0d0d&color=00ff41" height="22"/>
-<img src="https://img.shields.io/badge/Web%20Pentesting-00cc33?style=flat-square&labelColor=0d0d0d&color=00cc33" height="22"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=flat-square&logo=burpsuite&logoColor=ff6633&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/Metasploit-7c3aed?style=flat-square&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=1679A7&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=557C94&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/OSINT-ff0040?style=flat-square&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/Nmap-blue?style=flat-square&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/SQLi%20·%20XSS%20·%20CSRF-8b0000?style=flat-square&labelColor=0d0d0d" height="22"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=00599C&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" height="30"/>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/NumPy-4dabcf?style=for-the-badge&logo=numpy&logoColor=4dabcf&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Pandas-e70488?style=for-the-badge&logo=pandas&logoColor=e70488&labelColor=ffffff" height="30"/>&nbsp;<a href="https://hackerone.com"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=494649&labelColor=ffffff" height="30"/></a>&nbsp;<a href="https://bugcrowd.com"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=F26822&labelColor=ffffff" height="30"/></a>&nbsp;<a href="https://intigriti.com"><img src="https://img.shields.io/badge/Intigriti-3f63f0?style=for-the-badge&labelColor=ffffff" height="30"/></a>
 
-**Programming**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=00599C&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=00599C&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=4EAA25&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=E34F26&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0d0d0d" height="22"/>
-
-<br/><br/>
-
-**Tools & Platforms**
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=FF6F00&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=F05032&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=007ACC&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=FCC624&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=4dabcf&labelColor=0d0d0d" height="22"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=e70488&labelColor=0d0d0d" height="22"/>
+</div>
 
 <br/><br/>
 
