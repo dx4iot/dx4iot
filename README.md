@@ -25,7 +25,7 @@
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 
-## `> whoami`
+### `> whoami`
 
 ```bash
 ┌──(dx4iot㉿kali)-[~]
@@ -49,7 +49,7 @@
 
 ---
 
-## `> connect --all`
+### `> connect --all`
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 
 ---
 
-## `> cat income_streams.json`
+### `> cat income_streams.json`
 
 <div align="center">
 
@@ -78,32 +78,17 @@
 
 ---
 
-## `> nmap --skills`
+### `> nmap --skills`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Bug%20Bounty-00ff41?style=for-the-badge&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Web%20Pentesting-00cc33?style=for-the-badge&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=FF6633&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Metasploit-7c3aed?style=for-the-badge&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=1679A7&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=557C94&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/OSINT-ff0040?style=for-the-badge&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Nmap-004088?style=for-the-badge&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/SQLi%20·%20XSS%20·%20CSRF-8b0000?style=for-the-badge&labelColor=ffffff" height="30"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="28"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="28"/>&nbsp;<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" height="28"/>&nbsp;<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" height="28"/>&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="28"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="28"/>&nbsp;<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" height="28"/>&nbsp;<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="28"/>&nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="28"/>&nbsp;<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="28"/>&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="28"/>&nbsp;<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="28"/>&nbsp;<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="28"/>&nbsp;<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" height="28"/>&nbsp;<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" height="28"/>&nbsp;<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" height="28"/>&nbsp;<img src="https://img.shields.io/badge/Metasploit-7c3aed?style=flat&logoColor=white" height="28"/>&nbsp;<img src="https://img.shields.io/badge/OSINT-ff0040?style=flat&logoColor=white" height="28"/>&nbsp;<img src="https://img.shields.io/badge/Bug%20Bounty-00b300?style=flat&logoColor=white" height="28"/>&nbsp;<a href="https://hackerone.com"><img src="https://img.shields.io/badge/HackerOne-494649?style=flat&logo=hackerone&logoColor=white" height="28"/></a>&nbsp;<a href="https://bugcrowd.com"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=flat&logo=bugcrowd&logoColor=white" height="28"/></a>&nbsp;<a href="https://intigriti.com"><img src="https://img.shields.io/badge/Intigriti-3f63f0?style=flat&logoColor=white" height="28"/></a>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=00599C&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" height="30"/>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/NumPy-4dabcf?style=for-the-badge&logo=numpy&logoColor=4dabcf&labelColor=ffffff" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Pandas-e70488?style=for-the-badge&logo=pandas&logoColor=e70488&labelColor=ffffff" height="30"/>&nbsp;<a href="https://hackerone.com"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=494649&labelColor=ffffff" height="30"/></a>&nbsp;<a href="https://bugcrowd.com"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=F26822&labelColor=ffffff" height="30"/></a>&nbsp;<a href="https://intigriti.com"><img src="https://img.shields.io/badge/Intigriti-3f63f0?style=for-the-badge&labelColor=ffffff" height="30"/></a>
-
-</div>
-
-<br/><br/>
-
-**Bug Bounty Platforms**
-
-<a href="https://hackerone.com"><img src="https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white&labelColor=0d0d0d" height="22"/></a>&nbsp;
-<a href="https://bugcrowd.com"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=flat-square&logo=bugcrowd&logoColor=F26822&labelColor=0d0d0d" height="22"/></a>&nbsp;
-<a href="https://intigriti.com"><img src="https://img.shields.io/badge/Intigriti-3f63f0?style=flat-square&logoColor=3f63f0&labelColor=0d0d0d" height="22"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Open%20Bug%20Bounty-00aa44?style=flat-square&labelColor=0d0d0d" height="22"/>
-
-</div>
+<br/>
 
 ---
 
-## `> stats --verbose`
+### `> stats --verbose`
 
 <div align="center">
 
@@ -123,7 +108,7 @@
 
 ---
 
-## `> cat mindset.txt`
+### `> cat mindset.txt`
 
 <div align="center">
 
@@ -141,29 +126,16 @@
 
 ---
 
-## `> ping --hire-me`
+### `> ping --hire-me`
 
 <div align="center">
 
-**Open to:** Bug Bounty Collabs · Freelance Security Audits · Pentest Projects · Course Collaborations
-
-<br/>
-
-<a href="mailto:dx4iot@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34"/>
-</a>&nbsp;
-<a href="https://linkedin.com/in/dx4iot">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/>
-</a>&nbsp;
-<a href="https://www.udemy.com/user/dx4iot">
-  <img src="https://img.shields.io/badge/MY%20COURSES-A435F0?style=for-the-badge&logo=udemy&logoColor=white" height="34"/>
-</a>&nbsp;
-<a href="https://twitter.com/dx4iot">
-  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="34"/>
-</a>
+<a href="mailto:dx4iot@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=flat&logo=gmail&logoColor=white" height="30"/></a>&nbsp;
+<a href="https://linkedin.com/in/dx4iot"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white" height="30"/></a>&nbsp;
+<a href="https://www.udemy.com/user/dx4iot"><img src="https://img.shields.io/badge/MY%20COURSES-A435F0?style=flat&logo=udemy&logoColor=white" height="30"/></a>&nbsp;
+<a href="https://twitter.com/dx4iot"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=flat&logo=twitter&logoColor=white" height="30"/></a>
 
 </div>
-
 ---
 
 <div align="center">
