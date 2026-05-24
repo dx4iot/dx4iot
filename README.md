@@ -79,7 +79,7 @@
 
 <br/>
 
-
+</div>
 ---
 
 #### `> cat mindset.txt`
@@ -110,12 +110,9 @@
 <a href="https://twitter.com/dx4iot"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=flat&logo=twitter&logoColor=white" height="30"/></a>
 
 </div>
----
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:001a00,100:0d0d0d&height=80&section=footer&text=Keep+Hacking+Legally&fontSize=14&fontColor=00ff41&animation=twinkling" width="100%"/>
-
-<sub>Made with ♥ by <a href="https://github.com/dx4iot">dx4iot</a></sub>
 
 </div>
