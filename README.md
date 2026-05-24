@@ -114,10 +114,10 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  "The quieter you become, the more you can hear."   ║
+║  "The quieter you become, the more you can hear."    ║
 ║                              — Kali Linux motto      ║
 ║                                                      ║
-║  Hunt bugs. Teach others. Trade smart. Ship code.   ║
+║  Hunt bugs. Teach others. Trade smart. Ship code.    ║
 ║  Every system has a flaw. Find it legally.           ║
 ╚══════════════════════════════════════════════════════╝
 ```
