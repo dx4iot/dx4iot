@@ -25,7 +25,7 @@
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 
-### `> whoami`
+#### `> whoami`
 
 ```bash
 ┌──(dx4iot㉿kali)-[~]
@@ -49,7 +49,7 @@
 
 ---
 
-### `> connect --all`
+#### `> connect --all`
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 
 ---
 
-### `> cat income_streams.json`
+#### `> cat income_streams.json`
 
 <div align="center">
 
@@ -79,7 +79,7 @@
 
 ---
 
-### `> nmap --skills`
+#### `> nmap --skills`
 
 <div align="center">
 
@@ -89,7 +89,7 @@
 
 ---
 
-### `> stats --verbose`
+#### `> stats --verbose`
 
 <div align="center">
 
@@ -109,7 +109,7 @@
 
 ---
 
-### `> cat mindset.txt`
+#### `> cat mindset.txt`
 
 <div align="center">
 
@@ -127,13 +127,13 @@
 
 ---
 
-### `> ping --hire-me`
+#### `> ping --hire-me`
 
 <div align="center">
 
 <a href="mailto:dx4iot@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=flat&logo=gmail&logoColor=white" height="30"/></a>&nbsp;
 <a href="https://linkedin.com/in/dx4iot"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white" height="30"/></a>&nbsp;
-<a href="https://www.udemy.com/user/dx4iot"><img src="https://img.shields.io/badge/MY%20COURSES-A435F0?style=flat&logo=udemy&logoColor=white" height="30"/></a>&nbsp;
+<a href="https://www.udemy.com/user/nishant-tiwari-61/"><img src="https://img.shields.io/badge/MY%20COURSES-A435F0?style=flat&logo=udemy&logoColor=white" height="30"/></a>&nbsp;
 <a href="https://twitter.com/dx4iot"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=flat&logo=twitter&logoColor=white" height="30"/></a>
 
 </div>
