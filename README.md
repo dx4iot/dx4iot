@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════ COVER BANNER ═══════════════ -->
-<img src="https://raw.githubusercontent.com/dx4iot/dx4iot/main/cover.svg" width="100%" alt="dx4iot cover"/>
+<img src="https://github.com/dx4iot/dx4iot/blob/main/cover.svg" width="100%" alt="dx4iot cover"/>
 
 <br/>
 
