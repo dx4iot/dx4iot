@@ -7,13 +7,10 @@
 </br>
 
 <!-- ═══════════════ QUICK STAT PILLS ═══════════════ -->
-<img src="https://komarev.com/ghpvc/?username=dx4iot&style=flat-square&color=00ff41&labelColor=0d0d0d&label=PROFILE+VIEWS" height="22"/>
-&nbsp;
-<a href="https://github.com/dx4iot?tab=followers"><img src="https://img.shields.io/github/followers/dx4iot?style=flat-square&color=00ff41&labelColor=0d0d0d&label=FOLLOWERS" height="22"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/BUG%20BOUNTY-ACTIVE-00ff41?style=flat-square&labelColor=0d0d0d" height="22"/>
-&nbsp;
-<img src="https://img.shields.io/badge/INDIA-%F0%9F%87%AE%F0%9F%87%B3-ff6b35?style=flat-square&labelColor=0d0d0d" height="22"/>
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS-0d0d0d?style=flat&logo=eye&logoColor=white" height="28"/>&nbsp;
+<a href="https://github.com/dx4iot?tab=followers"><img src="https://img.shields.io/github/followers/dx4iot?style=flat&logo=github&logoColor=white&label=FOLLOWERS&color=24292e" height="28"/></a>&nbsp;
+<img src="https://img.shields.io/badge/BUG%20BOUNTY-ACTIVE-00b300?style=flat&logoColor=white" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/INDIA-🇮🇳-ff6b35?style=flat&logoColor=white" height="28"/>
 
 </div>
 
@@ -82,25 +79,6 @@
 
 <br/>
 
----
-
-#### `> stats --verbose`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dx4iot&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=cccccc&border_radius=8" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dx4iot&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=cccccc&border_radius=8" height="160"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dx4iot&theme=dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&border_radius=8" width="480"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dx4iot&theme=high-contrast&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
 
 ---
 
