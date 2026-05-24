@@ -5,11 +5,6 @@
 
 
 
-<!-- ═══════════════ TYPING LINE ═══════════════ -->
-<a href="https://github.com/dx4iot">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=0:0d0d0d,100:001a00&text=Bug%20Bounty%20Hunter%20%7C%20Freelancer%20%7C%20Educator%20%7C%20Trader&fontSize=18&fontColor=00ff41&animation=twinkling&fontAlignY=65" width="100%"/>
-</a>
-
 
 <!-- ═══════════════ QUICK STAT PILLS ═══════════════ -->
 <img src="https://komarev.com/ghpvc/?username=dx4iot&style=flat-square&color=00ff41&labelColor=0d0d0d&label=PROFILE+VIEWS" height="22"/>
