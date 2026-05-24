@@ -80,8 +80,9 @@
 
 <br/>
 
-</div>
 ---
+
+</div>
 
 #### `> cat mindset.txt`
 
