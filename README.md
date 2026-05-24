@@ -27,8 +27,6 @@
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
-
 ## `> whoami`
 
 ```bash
@@ -58,22 +56,22 @@
 <div align="center">
 
 <a href="mailto:dx4iot@gmail.com">
-  <img src="https://img.shields.io/badge/─%20GMAIL%20─-1a0000?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=1a0000" height="26"/>
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
 </a>&nbsp;
 <a href="https://linkedin.com/in/dx4iot">
-  <img src="https://img.shields.io/badge/─%20LINKEDIN%20─-001a2e?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=001a2e" height="26"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
 </a>&nbsp;
 <a href="https://twitter.com/dx4iot">
-  <img src="https://img.shields.io/badge/─%20TWITTER%20─-001020?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=001020" height="26"/>
+  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="32"/>
 </a>&nbsp;
 <a href="https://instagram.com/dx4iot">
-  <img src="https://img.shields.io/badge/─%20INSTAGRAM%20─-1a0010?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=1a0010" height="26"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32"/>
 </a>&nbsp;
 <a href="https://www.udemy.com/user/dx4iot">
-  <img src="https://img.shields.io/badge/─%20UDEMY%20─-0d0018?style=flat-square&logo=udemy&logoColor=A435F0&labelColor=0d0018" height="26"/>
+  <img src="https://img.shields.io/badge/UDEMY-A435F0?style=for-the-badge&logo=udemy&logoColor=white" height="32"/>
 </a>&nbsp;
 <a href="https://dx4iot.github.io">
-  <img src="https://img.shields.io/badge/─%20PORTFOLIO%20─-001a00?style=flat-square&logo=githubpages&logoColor=00ff41&labelColor=001a00" height="26"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-00ff41?style=for-the-badge&logo=github&logoColor=black" height="32"/>
 </a>
 
 </div>
@@ -195,16 +193,16 @@
 <br/>
 
 <a href="mailto:dx4iot@gmail.com">
-  <img src="https://img.shields.io/badge/◈%20EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0000" height="30"/>
+  <img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34"/>
 </a>&nbsp;
 <a href="https://linkedin.com/in/dx4iot">
-  <img src="https://img.shields.io/badge/◈%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001a2e" height="30"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/>
 </a>&nbsp;
 <a href="https://www.udemy.com/user/dx4iot">
-  <img src="https://img.shields.io/badge/◈%20MY%20COURSES-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=0d0018" height="30"/>
+  <img src="https://img.shields.io/badge/MY%20COURSES-A435F0?style=for-the-badge&logo=udemy&logoColor=white" height="34"/>
 </a>&nbsp;
 <a href="https://twitter.com/dx4iot">
-  <img src="https://img.shields.io/badge/◈%20TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=001020" height="30"/>
+  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="34"/>
 </a>
 
 </div>
