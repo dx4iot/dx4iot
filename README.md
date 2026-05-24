@@ -115,6 +115,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:001a00,100:0d0d0d&height=80&section=footer&text=Keep+Hacking+Legally&fontSize=14&fontColor=00ff41&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f5,100:f0f0f0&height=80&section=footer&text=Hunt.%20Build.%20Teach.%20Trade.%20Repeat.&fontSize=16&fontColor=aaaaaa&animation=fadeIn" width="100%"/>
 
 </div>
